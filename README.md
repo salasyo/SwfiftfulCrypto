@@ -4,7 +4,7 @@ This is an iOS cryptocurrency tracking app project created using RESTful API's, 
 
 ## Project
 
-This project is a practical implementation of the concepts taught in the tutorial series, which focuses on using SwiftUI and MVVM architecture to build a cryptocurrency tracking application.
+This project is a practical implementation of the concepts taught in the tutorial series, which focuses on using SwiftUI, MVVM architecture, and making and handling API calls, to build a cryptocurrency tracking application.
 
 ## Skills Learned
 
